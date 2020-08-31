@@ -1,4 +1,5 @@
 # Sentiment-Analyzer
 Analyzing the sentiments of the reviews
 
-![til](./Sentiment analyzer.gif)
+## Demo
+![me](https://github.com/gowtamvamsi/Sentiment-Analyzer/blob/master/Sentiment%20analyzer.gif)
